@@ -41,3 +41,17 @@ img {
     padding: 100px;
     padding-bottom: 50px;
 }
+
+h4 {
+    color: #289BDE;
+}
+
+.course-Button {
+    font-size: 23px;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-color: #289BDE;
+    color: #fff;
+    border: none;
+
+}
